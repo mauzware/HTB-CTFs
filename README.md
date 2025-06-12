@@ -11,7 +11,7 @@
 
 ## 📄 Writeups
 
-- add
+- [Cap writeup](https://github.com/mauzware/HTB-CTFs/blob/main/Cap.md)
 - add
 - add
 ---
