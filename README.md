@@ -13,7 +13,17 @@
 
 - [Cap writeup](https://github.com/mauzware/HTB-CTFs/blob/main/Cap.md)
 - [Lame writeup](https://github.com/mauzware/HTB-CTFs/blob/main/Lame.md)
+- [TwoMillion writeup](https://github.com/mauzware/HTB-CTFs/blob/main/TwoMillion.md)
 - add
+- add
+- add
+- add
+- add
+- add
+- add
+- add
+- add
+
 ---
 
 ## ⛔️ License
