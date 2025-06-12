@@ -12,7 +12,7 @@
 ## 📄 Writeups
 
 - [Cap writeup](https://github.com/mauzware/HTB-CTFs/blob/main/Cap.md)
-- add
+- [Lame writeup](https://github.com/mauzware/HTB-CTFs/blob/main/Lame.md)
 - add
 ---
 
