@@ -11,9 +11,9 @@
 
 ## 📄 Writeups
 
-- [Cap writeup](https://github.com/mauzware/HTB-CTFs/blob/main/Cap.md)
-- [Lame writeup](https://github.com/mauzware/HTB-CTFs/blob/main/Lame.md)
-- [TwoMillion writeup](https://github.com/mauzware/HTB-CTFs/blob/main/TwoMillion.md)
+- [Cap write-up](https://github.com/mauzware/HTB-CTFs/blob/main/Cap.md)
+- [Lame write-up](https://github.com/mauzware/HTB-CTFs/blob/main/Lame.md)
+- [TwoMillion write-up](https://github.com/mauzware/HTB-CTFs/blob/main/TwoMillion.md)
 - add
 - add
 - add
@@ -35,6 +35,16 @@ These are personal notes and CTF writeups meant for educational purposes only.<b
 Please do not copy, republish, or claim this work as your own.
 
 More info: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+---
+
+## 👋 Follow my journey
+
+If you liked this walkthroughs, feel free to follow me on:
+
+<a href="https://medium.com/@mauzware"><img src="https://img.shields.io/badge/Medium-style?style=for-the-badge&logo=medium&color=black" alt="Medium"/></a>
+<a href="https://www.linkedin.com/in/filip-milenkovic-576a73228/"><img src="https://img.shields.io/badge/LinkedIn-style?style=for-the-badge&color=blue" alt="LinkedIn"/></a>
+<a href="https://github.com/mauzware"><img src="https://img.shields.io/badge/GitHub-style?style=for-the-badge&logo=github&color=black" alt="GitHub"/></a>
 
 ---
 
